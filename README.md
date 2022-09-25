@@ -2,8 +2,8 @@
 Virtual Internship - Android Application Development Using Kotlin
 
 Name : Kande . Usha Sri 
-SBID : SB20220185615 
-E-mail : ushasrikande@gmail
+SBID : SB20220233592
+E-mail : 20b01a0568@svecw.edu.in
 
 Google Developer's Profile :  https://g.dev/ushasri
 
